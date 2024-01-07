@@ -1,0 +1,48 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+	font-family: 'Avenir', sans-serif;
+ }	
+ 
+.desc{
+      margin-top:10px;
+}	  
+ 
+.content{
+         width: 26%;
+         height: 360px;
+	     text-align:center;
+	     border-radius:5px;
+	     padding:14px;
+	     box-shadow:0px 1px 1px 0px #000000;
+	     background:#fafafa;
+		 margin-top:160px;
+		 margin-left:520px;
+}  
+
+.icon{
+	  color: #E84644;
+	  margin-right: 215px;
+	  margin-top:20px;
+}
+
+.offers{
+	margin-left:96px;
+	margin-top:-98px;
+	text-align:left;
+}
+
+button{
+       text-align:center;
+       font-size:18px;
+       color:#fafafa;
+	   background-color:#E84644;
+       width:40%;
+       padding:10px;
+	   border:0;
+	   outline:none;
+	   cursor:pointer;
+	   margin-top:40px;
+	   border-radius:6px;
+}
